@@ -25,3 +25,7 @@ circular {
 a:hover {
     color: grey;
 }
+
+a {
+    margin: 10px 20px;
+}
