@@ -17,3 +17,11 @@ h3 {
 h2 {
     color: #66bfbf;
 }
+
+circular {
+    border-radius: 100%;
+}
+
+a:hover {
+    color: grey;
+}
